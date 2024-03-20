@@ -1,5 +1,5 @@
 # Excel-Project
-Road Accident Analysis 
+**Road Accident Analysis**
 
 Excited to share my latest project: **An Excel Dashboard analyzing UK road accident data!**
 
@@ -7,16 +7,16 @@ I have delved extensively into the data to reveal insights regarding trends in a
 
 **Tool Used** : **EXCEL**
 
-Process Followed:
+**Process**:
 
-1. Reading data for better understanding.
-2. Data Cleaning it as required.
-3. Processing data and creating additional columns like month and year.
-4. data analysis with the help of pivot tables.
+ 1. Reading data for better understanding.
+ 2. Data Cleaning it as required.
+ 3. Processing data and creating additional columns like month and year.
+ 4. Data Analysis with the help of **Pivot tables**.
 
-   Learning from Project:
+**Learning from Project:**
 
-1. Creating multipe pivots and exploring to analyze.
-2. Utilization of formula and making dashboard dynamic
-3. Use of hyperlink for easy navigation and drop email as required
-4. Grouping of categorical data to make it concise for usage and better outcomes.
+ 1. Employing multiple pivots and exploratory techniques for In_depth Analysis.
+ 2. Dynamic dashboard creation by utilizing formula.
+ 3. Incorporating Hyperlinks for seamless navigation and optional email integration.
+ 4. Strealining categorical data through grouping for improved usability and outcome precision.
